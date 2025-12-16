@@ -7,6 +7,7 @@ Building efficient and secure AWS infrastructure with Infrastructure as Code (Te
 📩 **[shyamalenduojha@gmail.com](mailto:shyamalenduojha@gmail.com)**
 📞 **+91 86586 18738**
 📍 **Cuttack, India**
+    https://github.com/Shyamalenduojha17
 
 ---
 
@@ -17,7 +18,8 @@ Building efficient and secure AWS infrastructure with Infrastructure as Code (Te
 * **AWS Services:** EC2, S3, VPC, IAM, ELB, Route53, CloudWatch, SNS, SQS, CloudTrail, CloudFront
 * **Containerization & Orchestration:** Docker, Kubernetes, AWS EKS, AWS ECS, AWS ECR
 * **CI/CD & IaC:** Jenkins, Terraform, Ansible, AWS CodePipeline, CodeDeploy, CodeCommit
-* **Monitoring:** **Prometheus, Grafana**
+* **Monitoring:** Prometheus, Grafana, PagerDuty (basic incident handling)
+* **Operational Skills:** Run-book execution, alert acknowledgment, shift reporting
 * **Version Control:** Git, GitHub
 * **Scripting:** Bash, Python
 * **Operating Systems:** Linux (Ubuntu, CentOS, Amazon Linux)
