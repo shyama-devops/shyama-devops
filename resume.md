@@ -4,7 +4,7 @@
 **AWS DevOps Engineer**
 Building efficient and secure AWS infrastructure with Infrastructure as Code (Terraform, Ansible). Leveraging containerization (Docker, Kubernetes) and CI/CD (Jenkins) to automate application delivery. Experienced in monitoring tools such as **Prometheus and Grafana** to ensure system reliability. Passionate about optimization and eager to contribute to scalable DevOps environments.
 
-📩 **[shyamalenduojha@gmail.com](mailto:shyamalenduojha@gmail.com)**
+📩 **[shyamalenduojha8@gmail.com](mailto:shyamalenduojha@gmail.com)**
 📞 **+91 86586 18738**
 📍 **Cuttack, India**
     https://github.com/Shyamalenduojha17
